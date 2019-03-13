@@ -1,0 +1,4 @@
+/Users/angel21/Projects/contactlistProject/contactlistProject/bin/contactlistProject.dll
+/Users/angel21/Projects/contactlistProject/contactlistProject/obj/Release/contactlistProject.csproj.CoreCompileInputs.cache
+/Users/angel21/Projects/contactlistProject/contactlistProject/obj/Release/contactlistProject.dll
+/Users/angel21/Projects/contactlistProject/contactlistProject/obj/Release/contactlistProject.csprojAssemblyReference.cache
